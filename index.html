@@ -6,14 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>theHussey</title>
     <link rel="stylesheet" href="style.css">
+    <script src="main.js"></script>
 </head>
 
 <body>
-    <div>
-        <h1>the hussey</h1>
-          <p>Movies</p>
-          <p>Shows</p>
-    </div>
-    
+    <div class="container">
+        <div class="main">
+        <h2>Media Server Login Form</h2>
+        <form id="form_id" method="post" name="myform">
+        <label>User Name :</label>
+        <input type="text" name="username" id="username"/>
+        <label>Password :</label>
+        <input type="password" name="password" id="password"/>
+        <input type="button" value="Login" id="submit" onclick="validate()"/>
+        </form>
+        </div>
+        </div>
 </body>
 </html>
