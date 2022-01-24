@@ -83,7 +83,7 @@ h1 {
   
      body{
       
-      background-image: src ("domains/thehussey.com/public_html/media/space2.jpg");
+      background-image: url("space2.jpg");
       background-repeat: no-repeat
     } 
 
