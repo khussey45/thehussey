@@ -2,6 +2,16 @@ h1 {
     text-align: center;
 }
 
+body {
+    background-color: black;
+    background-image: url();
+    background-repeat: no-repeat;
+  } 
+
+  #password {
+      margin-left: 10px;
+  }
+
 
  /* Bordered form */
  form {
@@ -81,13 +91,5 @@ h1 {
   
 
   
-     body {
-      background-color: black;
-      background-image: url();
-      background-repeat: no-repeat;
-    } 
-
-    #password {
-        margin-left: 10px;
-    }
+    
 }
