@@ -5,13 +5,18 @@ h1 {
 
  /* Bordered form */
  form {
-    border: 3px solid #f1f1f1;
+     color: white;
+     margin-top: 5%;
+     margin-left: 40%;
+     width: 25%;
+    font-size: 20px;
   }
   
   /* Full-width inputs */
   input[type=text], input[type=password] {
-    width: 100%;
-    padding: 12px 20px;
+   
+    width: 25%;
+    padding: 1px 20px;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
@@ -74,4 +79,15 @@ h1 {
       width: 100%;
     }
   } 
+
+  
+     body{
+      
+      background-image: url("media/space2.jpg");
+      background-repeat: no-repeat
+    } 
+
+    #password {
+        margin-left: 10px;
+    }
   
