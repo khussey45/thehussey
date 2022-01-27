@@ -41,3 +41,25 @@ ul li a:hover {
   margin-top: -75px;
   margin-left: 75%;
 }
+
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 500px) {
+    ul li a {
+      padding: 0 5px;
+    }
+    .logo img {
+      max-width:100px;
+      
+      
+  }
+    
+  }
+
+  /* @media only screen and (min-width: 200px) and (max-width: 500px) {
+ 
+    .logo img {
+        max-width:100px;
+        
+        
+    }
+  } */
