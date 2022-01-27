@@ -49,17 +49,14 @@ ul li a:hover {
     }
     .logo img {
       max-width:100px;
+     padding-top: 1%;
       
-      
-  }
+    } 
+   
     
-  }
-
-  /* @media only screen and (min-width: 200px) and (max-width: 500px) {
- 
-    .logo img {
-        max-width:100px;
-        
-        
     }
-  } */
+    
+  
+
+  
+

@@ -88,4 +88,22 @@ body {
     .cancelbtn {
       width: 100%;
     }
+  
+    
+}
+
+@media screen and (max-width: 500px) {
+  #username {
+    width: 100px;
+  }
+
+  #password {
+    width: 100px;
+    padding-right: 100px;
+  } 
+
+  label.user {
+    height: -auto;
+  }
+
 }
