@@ -95,6 +95,7 @@ body {
 @media screen and (max-width: 500px) {
   #username {
     width: 100px;
+    padding-right: 100px;
   }
 
   #password {
@@ -102,8 +103,10 @@ body {
     padding-right: 100px;
   } 
 
-  label.user {
-    height: -auto;
+  form#form_id {
+    width: 100%;
+    margin-left: auto;
   }
-
+ 
+  
 }
