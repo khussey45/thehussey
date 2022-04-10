@@ -6,7 +6,8 @@
 
 body {
     background-color: white ;
-    /*background-image: url("media/smokey.jpg");*/
+    background-image: url("media/spacex77.jpg");
+    background-repeat: no-repeat;
 }
 
 nav {
@@ -37,7 +38,7 @@ ul li a {
     text-decoration: none; 
     font-size: 12px;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color: white;
     padding: 0 20px;
     
 } 
