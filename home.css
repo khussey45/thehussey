@@ -12,18 +12,22 @@ body {
 nav {
   width: 100%;
   height: 50px;
+  border-bottom: 1px solid grey;
   
 
 
 }
 
-
+ul {
+  margin-left: 100px;
+}
 
 ul li {
   list-style: none;
   display: inline-block;
   /* float: left; */
-  line-height: 50px;
+  line-height: 50px; 
+ 
   
 
 } 
@@ -35,6 +39,7 @@ ul li a {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
     padding: 0 20px;
+    
 } 
 
 ul li a:hover {
@@ -43,7 +48,7 @@ ul li a:hover {
 
 .logo  {
   margin-top: -40px;
-  margin-left: 75%;
+  margin-left: 1%;
  
 }
 
