@@ -6,16 +6,16 @@
 
 body {
     
-    /* background-image: url("media/spacex77.jpg"); */
+     background-image: url("media/stars10.jpg"); 
     background-repeat: no-repeat;
-    background-color: #3a3f45;
+    background-color: #00c5cd;
     
 }
 
 nav {
-  border-bottom: 3px solid grey;
+  /* border-bottom: 3px solid grey; */
   height:50px; 
-  background-color: #584b4f;
+  
 } 
  
 .menu  {
